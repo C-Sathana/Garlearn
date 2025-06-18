@@ -57,7 +57,7 @@ Blender – Used for 3D modeling, sculpting, texturing, and animation of the med
 
 ## Clone the repository:
 
-git clone https://github.com/your-username/GarLearn.git
+git clone https://github.com//C-Sathana/Garlearn.git
 Open the .blend files in Blender.
 
 Use Blender’s Rendered View or Material Preview to explore.
